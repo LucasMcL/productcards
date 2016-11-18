@@ -6,9 +6,54 @@ body {
 
 .card {
 	width: 30%;
-	background-color: red;
+	border-style: solid;
+	border-color: lightblue;
+	border: 1px 1px 1px 1px;
 }
 
 .prod_img {
-	width: 80%;
+	width: 90%;
 }
+
+.prod_name {
+	border: dotted lightgray 1px;
+	text-align: center;
+}
+
+.sect_1 {
+	text-align: center;
+}
+
+.sect_1 p {
+	text-align: justify;
+}
+
+.availability {
+	background-color: grey;
+	color: yellow;
+	font-size: 1.2em;
+}
+
+.specs_list {
+	font-weight: bold;
+}
+
+.pricing_list {
+	font-weight: bold;
+}
+
+footer {
+	margin-bottom: 10px;
+	font-size: .8em;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
