@@ -12,7 +12,8 @@ body {
 }
 
 .prod_img {
-	width: 90%;
+	height: 100%;
+	max-width: 90%;
 }
 
 .prod_name {
