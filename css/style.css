@@ -49,7 +49,10 @@ footer {
 	text-align: center;
 }
 
-
+.item_description {
+	margin-left: 5px;
+	margin-right: 5px;
+}
 
 
 
